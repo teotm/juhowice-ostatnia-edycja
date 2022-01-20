@@ -25,6 +25,6 @@
 - - Raczej nie. Może kiedyś, ale pod inną nazwą/formą, ale to już sprawa Emina.
 - Spoczywajcie w pokoju, Juhowice 💝. Kontynuacji nie będzie, ale serwer zawsze pozostanie w mojej pamięci.
 # Możesz też zobaczyć:
-- Moje prace nad modem do [Friday Night Funkin'](https://github.com/teotm/some-trio-full-week)
+- Moje prace nad modem do [Friday Night Funkin'](https://github.com/teotm/some-trio-source-code)
 - Save z drugą edycją mojego [serwera Minecraft](https://github.com/teotm/kolczatkowo-druga-edycja)
 - Być może kiedyś, jeśli mi się uda zdobyć save wrzucę też save z pierwszej edycji **mojego** serwera Minecraft, [klikaj tu, może kiedyś wrzucę pod ten link repozytorium z tym save'm](https://github.com/teotm/kolczatkowo-pierwsza-edycja).
